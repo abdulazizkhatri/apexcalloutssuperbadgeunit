@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>WellnessJourneyRewardsBatch</members>
+        <members>RewardsCalloutService</members>
+        <members>RewardsCalloutServiceTest</members>
+        <members>RewardsCalloutServiceMock</members>
+        <members>AccessibilityProjectBilling</members>
+        <members>BillingCalloutServiceMock</members>
+        <members>BillingCalloutServiceTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>61.0</version>
+</Package>
